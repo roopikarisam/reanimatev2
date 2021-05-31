@@ -1,0 +1,42 @@
+{
+  
+  "name": "Reanimate - Recovering Media Histories",
+  "short_name": "Reanimate - Recovering Media Histories",
+  "description": "Reanimate is an intersectional feminist publishing collective that recovers and publishes digital editions of writing by women in media.",
+  "start_url": "/reanimate/?utm_source=homescreen",
+  "theme_color": "#4fb1ba",
+  "background_color": "#fff",
+  "orientation": "portrait",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/reanimate/assets/icons/icon@0,25x.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/reanimate/assets/icons/icon@0,5x.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/reanimate/assets/icons/icon@0,75x.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/reanimate/assets/icons/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/reanimate/assets/icons/icon@2x.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "/reanimate/assets/icons/icon@3x.png",
+      "type": "image/png",
+      "sizes": "576x576"
+    }
+  ]}
